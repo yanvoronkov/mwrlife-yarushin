@@ -194,8 +194,6 @@ body {
 
     .version-text {
         font-size: 15px;
-
-
     }
 
     .container {
@@ -203,7 +201,7 @@ body {
     }
 
     .video-title h2 {
-        font-size: 0.9rem;
+        font-size: 1.2rem;
     }
 
     /* .video-subtitle {
