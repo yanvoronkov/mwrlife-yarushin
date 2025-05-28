@@ -59,6 +59,10 @@ body {
     z-index: 3;
 }
 
+.version-text {
+    font-size: 20px;
+}
+
 /* Main Section */
 .main-section {
     padding: 40px 0;
@@ -80,15 +84,6 @@ body {
     text-transform: uppercase;
     margin-bottom: 30px;
 }
-
-/* .video-subtitle {
-    font-size: 1.8rem;
-    color: #304659;
-    line-height: 1.4;
-    font-weight: 500;
-    padding-bottom: 20px;
-} */
-
 
 .video-container {
     margin: 0 auto;
@@ -115,7 +110,6 @@ body {
 .cta-text {
     font-weight: 700;
 }
-
 
 /* Footer */
 .footer {
@@ -158,10 +152,6 @@ body {
         font-size: 1.6rem;
     }
 
-    /* .video-subtitle {
-        font-size: 1.3rem;
-    } */
-
     .video-container {
         margin: 0 auto;
         display: flex;
@@ -203,10 +193,6 @@ body {
     .video-title h2 {
         font-size: 1.2rem;
     }
-
-    /* .video-subtitle {
-        font-size: 1.2rem;
-    } */
 
     .footer-recognition img {
         height: 50px;
