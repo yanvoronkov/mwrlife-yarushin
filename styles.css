@@ -10,6 +10,9 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+.main-content {
     font-size: 25px;
 }
 
@@ -139,8 +142,8 @@ body {
 
 /* Responsive */
 @media (max-width: 768px) {
-    body {
-        font-size: 24px;
+    .main-content {
+        font-size: 23px;
     }
 
     .video-title h2 {
@@ -177,6 +180,10 @@ body {
 }
 
 @media (max-width: 425px) {
+    .main-content {
+        font-size: 20px;
+    }
+
     .logo img {
         height: 50px;
     }
